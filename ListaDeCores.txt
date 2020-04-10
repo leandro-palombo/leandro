@@ -1,0 +1,6 @@
+1 - azul
+2 - verde
+3 - amarelo
+4 - laranja
+5 - vermelho
+6 - roxo
