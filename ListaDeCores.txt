@@ -4,3 +4,5 @@
 4 - laranja
 5 - vermelho
 6 - roxo
+7 - branco
+8 - preto
